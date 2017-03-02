@@ -1,0 +1,7 @@
+# Ignore files
+node_modules
+npm-debug.log
+.*
+!.gitignore
+Thumbs.db
+doc
